@@ -1,2 +1,2 @@
 # ASPNET_Lab01
-Mini Customer Management
+Mini Customer Management App
