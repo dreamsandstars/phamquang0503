@@ -1,1 +1,2 @@
-# phamquang0503
+# ASPNET_Lab01
+Mini Customer Management API
